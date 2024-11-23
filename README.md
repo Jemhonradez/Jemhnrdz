@@ -1,8 +1,8 @@
 Superhero Mission Control Heap Challenge
 
 Contributors
-•Kristine O. Villanueva
-•Jemiel O. Honradez
+•Kristine O. Villanueva (https://github.com/szeistin)
+•Jemiel O. Honradez  (https://github.com/Jemhonradez/Jemhnrdz)
 
 Overview
 Welcome to the Superhero Mission Control Heap Challenge! This program allows you to manage superhero mission tasks based on priority using heaps. The tasks are represented by integer priority levels, where higher values indicate higher priority. The heap data structure is used to efficiently insert, remove, and reorganize tasks. The heap structure is visualized as a tree, and colorful outputs provide an engaging user experience.
